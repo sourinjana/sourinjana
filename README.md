@@ -33,6 +33,9 @@ technologies and explore new programming concepts.
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
  </p>
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourinjana&show_icons=true&locale=en&layout=compact" alt="sourinjana" /></p>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sourinjana&theme=great-gatsby&hide_border=false)<br/>
 
 
@@ -62,6 +65,7 @@ This is a Java Backend Application Using Spring Boot that allows users to create
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourinjana&label=Profile%20views&color=0e75b6&style=flat" alt="sourinjana" /> </p>
+
 
 
 
