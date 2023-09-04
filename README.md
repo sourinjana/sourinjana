@@ -13,7 +13,7 @@ technologies and explore new programming concepts.
 #  
 - 💬 Ask me about **DSA,Java,Spring Boot,SQL**
 - 📫 How to reach me **janasourin2017@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1N3_3WKrZ_JHlJcEFjg7FRGMqqIE74Ba_/view](https://drive.google.com/file/d/1N3_3WKrZ_JHlJcEFjg7FRGMqqIE74Ba_/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1N3_3WKrZ_JHlJcEFjg7FRGMqqIE74Ba_/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
