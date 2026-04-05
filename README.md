@@ -7,9 +7,10 @@
 <h3 align="center">Java Backend Developer || Spring Boot</h3>
 
 # 💫 About Me:
-- 👋I am a passionate Java Backend Developer with a strong knowledge in data structures and algorithms.I completed my B.Tech in Computer Science and Engineering from Elitte College of Engineering. I have a strong interest in building robust and scalable applications using modern technologies. With a solid foundation in software development, I enjoy crafting efficient and maintainable code.
-- 🤝 I am constantly seeking new challenges and opportunities to grow my skills, and I'm always excited to learn new
-technologies and explore new programming concepts.
+- 👋I am a Full Stack Developer with strong knowledge of Data Structures and Algorithms, SQL, and Object-Oriented Programming. I completed my B.Tech in Computer Science and Engineering from Elitte College of Engineering.
+Currently, I am working on building scalable and high-performance applications using modern technologies. I have experience developing secure backend systems using Spring Boot and RESTful APIs, along with cross-platform mobile applications using Flutter and React Native. I focus on writing clean, efficient, and maintainable code following best practices and industry standards.
+- 🤝I am committed to continuous learning and professional growth, always exploring new technologies and improving my problem-solving skills. I enjoy working in collaborative environments and contributing to impactful, real-world software solutions.
+
 #  
 - 💬 Ask me about **DSA,Java,Spring Boot,SQL**
 - 📫 How to reach me **janasourin2017@gmail.com**
