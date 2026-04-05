@@ -14,7 +14,7 @@ Currently, I am working on building scalable and high-performance applications u
 #  
 - 💬 Ask me about **DSA,Java,Spring Boot,SQL**
 - 📫 How to reach me **janasourin2017@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1V0Zh35YgaNyxn5_G4X0ywfBIcYZKvkZZ/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YIhB-ylNHUwYY2FrJsF6Kbkkaoy-2zxi/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,7 +38,6 @@ Currently, I am working on building scalable and high-performance applications u
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
