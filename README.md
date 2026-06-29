@@ -4,7 +4,7 @@
 </div>
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Sourin Jana
-<h3 align="center">Java Backend Developer || Spring Boot</h3>
+<h3 align="center">Java Backend Developer || Spring Boot || Mobile App Developer</h3>
 
 # 💫 About Me:
 - 👋I am a Full Stack Developer with strong knowledge of Data Structures and Algorithms, SQL, and Object-Oriented Programming. I completed my B.Tech in Computer Science and Engineering from Elitte College of Engineering.
